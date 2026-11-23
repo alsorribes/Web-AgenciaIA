@@ -1,0 +1,17 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Dependencias (por si en el futuro usáis npm para algo, p.ej. un formulario)
+node_modules/
+
+# Archivos de entorno / claves (nunca subir esto si en el futuro usáis una API)
+.env
